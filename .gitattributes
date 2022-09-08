@@ -44,6 +44,10 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 *.vtt linguist-language=WebVTT
+# M4 Source file
+*.m4 linguist-detectable=true
+*.m4 linguist-documentation=false
+*.m4 linguist-language=M4
 # SubRip subtitle file
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
@@ -165,6 +169,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2022, Wednesday, September 7th at 8:17 pm PST)
+# Line count (including blank lines and compiler line): 175
 # End of script
